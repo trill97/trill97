@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trill97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="trill97 github stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trill97&show_icons=true&theme=tokyonight&hide_border=true" alt="trill97 github stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trill97&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
 </div>
@@ -83,7 +83,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=trill97&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=trill97&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</a>
 
 </div>
 
